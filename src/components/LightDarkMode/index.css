@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.mainDiv {
+  height: 100vh;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lightsty {
+  background-color: white;
+}
+.blacksty {
+  background-color: black;
+}
+.subdiv {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border-style: solid;
+  border-color: black;
+  align-items: center;
+  padding: 15px;
+  border-radius: 13px;
+}
+
+.btnsty {
+  border-radius: 5px;
+  padding: 9px;
+  width: 100px;
+}
+.whitecolor {
+  color: white;
+}
+.blackcoloe {
+  color: black;
+}
